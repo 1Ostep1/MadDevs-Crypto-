@@ -5,7 +5,7 @@
 * [Notes](#notes)
 * [Contact](#contact)
 
-<img src= "https://user-images.githubusercontent.com/60435025/168441602-e886738d-03dd-457f-b6a3-bd9b656e81e2.gif" width="450" />
+<img src= "https://user-images.githubusercontent.com/60435025/168441602-e886738d-03dd-457f-b6a3-bd9b656e81e2.gif" height="450" />
 
 ## General Info
 
